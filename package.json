@@ -2,6 +2,7 @@
   "name": "working-with-numbers",
   "version": "1.0.0",
   "description": "My solution for 3.1",
+  "type": "module",
   "main": "src/index.js",
   "module": "src/main.js",
   "scripts": {
@@ -10,6 +11,7 @@
   "author": "Yanny Dean",
   "license": "ISC",
   "dependencies": {
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "input": "^1.0.1"
   }
 }
